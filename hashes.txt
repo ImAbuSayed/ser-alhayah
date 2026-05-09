@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ser Alhayah
+
+This log tracks the cryptographic history and versioning for the song **Ser Alhayah** (ser-alhayah).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:38:53.952700 | `v1` | `c7059e510753d872c32943b733992614979fcfaa0c96aed5c72a5eeeeabd61f3` | `9d2a7db38aaa8049b709dead38a11453d028317f21a0f8fdd9b464eb350e66ce` | `2026-05-09_ser-alhayah-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
